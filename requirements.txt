@@ -1,0 +1,6 @@
+geomstats
+matplotlib
+scipy
+scikit-learn
+torch
+
